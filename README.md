@@ -19,11 +19,11 @@
 
 <h3 align="left">Languages</h3>
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,c,cpp,python)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,c,cpp,python)](https://shovon.me)
 
 <h3 align="left">Library & Frameworks</h3>
 
-[![Languages](https://skillicons.dev/icons?i=react,nextjs,expressjs,nestjs,tailwind,bootstrap)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,expressjs,nestjs,tailwind,bootstrap)](https://shovon.me)
 
 <details>
 
