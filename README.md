@@ -25,6 +25,10 @@
 
 [![Frameworks](https://skillicons.dev/icons?i=react,nextjs,expressjs,nestjs,tailwind,bootstrap)](https://shovon.me)
 
+<h3 align="left">Tools</h3>
+
+[![Frameworks](https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,ansible,postman)](https://shovon.me)
+
 <details>
 
 <summary style="font-size: 16px; font-weight: bold; margin-bottom: 18px;">My Github Stats ⚡</summary>
